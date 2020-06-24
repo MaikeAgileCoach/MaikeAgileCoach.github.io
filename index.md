@@ -3,3 +3,11 @@ Pippi Langstrumpf (mit vollem Namen Pippilotta Viktualia Rollgardina Pfefferminz
 Sie ist selbstbewusst, mutig und stark.
 Pippi macht was sie für richtig hält, ist kreativ, aber durchaus verantwortungsvoll.
 Sie wohnt in ihrem Haus, der Villa Kunterbunt, und ist mit Tommi und Annika befreundet.
+
+## Eigenschaften
+* mutig
+* stark
+* lustig
+* kreativ
+* verantwortungsvoll
+* unkonventionell
