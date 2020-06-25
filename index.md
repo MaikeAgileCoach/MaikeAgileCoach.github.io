@@ -16,3 +16,5 @@ Pippi Langstrumpf:
 > Das habe ich noch nie vorher versucht,
 > also bin ich völlig sicher,
 > dass ich es schaffe.
+
+<img src="https://img.fotocommunity.com/maike-mulser-cacb158a-4826-4bd5-81bb-671860238ee1.jpg?width=200&height=200"/>
