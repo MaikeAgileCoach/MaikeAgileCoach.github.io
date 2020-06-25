@@ -11,3 +11,8 @@ Sie wohnt in ihrem Haus, der Villa Kunterbunt, und ist mit Tommi und Annika befr
 * kreativ
 * verantwortungsvoll
 * unkonventionell
+
+Pippi Langstrumpf:
+> Das habe ich noch nie vorher versucht,
+> also bin ich völlig sicher,
+> dass ich es schaffe.
